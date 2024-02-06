@@ -2,7 +2,7 @@
 
 A simple and lightweight WhatsApp frontend clone built using HTML, CSS, and JavaScript. This project replicates the user interface of WhatsApp, allowing users to send messages, view chat history, and more.
 
-![WhatsApp Clone Screenshot](link_to_screenshot)
+![WhatsApp Clone Screenshot](Screenshot)
 
 ## Table of Contents
 
@@ -41,3 +41,8 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/whatsapp-clone.git
 
+2. Open the project folder:
+
+   ```cd whatsapp-clone
+
+3. Open index.html in your preferred web browser.
