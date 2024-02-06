@@ -2,7 +2,7 @@
 
 A simple and lightweight WhatsApp frontend clone built using HTML, CSS, and JavaScript. This project replicates the user interface of WhatsApp, allowing users to send messages, view chat history, and more.
 
-![WhatsApp Clone Screenshot](Screenshot)
+![WhatsApp Clone Screenshot](Screenshot/screenshot1.png)
 
 ## Table of Contents
 
