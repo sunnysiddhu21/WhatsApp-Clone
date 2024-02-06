@@ -43,6 +43,7 @@ To run the project locally, follow these steps:
 
 2. Open the project folder:
 
-   ```cd whatsapp-clone
+   ```bash
+   cd whatsapp-clone
 
 3. Open index.html in your preferred web browser.
